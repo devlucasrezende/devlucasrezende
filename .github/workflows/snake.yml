@@ -19,6 +19,9 @@ jobs:
           github_user_name: devlucasrezende
           outputs: |
             ./output/snake.svg
+          color_snake: "#00ff00"      
+          color_dots: "#444444"       
+          svg_background: transparent 
 
       - name: Commit and push
         uses: crazy-max/ghaction-github-pages@v3.1.0
