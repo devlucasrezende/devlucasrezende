@@ -5,8 +5,8 @@
 - 💼 I specialize in **Back-end development** using **Java (Spring Framework)**  
 - 🧠 I'm experienced with **Oracle**, **PostgreSQL**, and **SQL optimization**
 - 🌍 Open to remote opportunities and international collaboration
-- 🚀 I'm currently working with **Spring Boot**, **Spring Batch**, **JPA/Hibernate**, and **RESTful APIs**
-- 🛠️ Also familiar with Docker, GitHub Actions, Azure DevOps, and CI/CD pipelines
+- 🚀 I'm currently working with **Java**, **Spring Boot**, **Spring Batch**, **JPA/Hibernate**, and **RESTful APIs**
+- 🛠️ Also familiar with Docker, Kubernetes and Linux 
 
 ---
 
