@@ -6,7 +6,8 @@
 - 🧠 I'm experienced with **Oracle**, **PostgreSQL**, and **SQL optimization**
 - 🌍 Open to remote opportunities and international collaboration
 - 🚀 I'm currently working with **Java**, **Spring Boot**, **Spring Batch**, **JPA/Hibernate**, and **RESTful APIs**
-- 🛠️ Also familiar with Docker, Kubernetes and Linux 
+- 🛠️ Also familiar with Docker, Kubernetes and Linux
+- 🇵🇹 Creator of www.residencetrackerpt.com - currently helped more than 200 immigrants in Portugal
 
 ---
 
