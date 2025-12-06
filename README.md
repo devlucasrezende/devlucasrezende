@@ -7,7 +7,7 @@
 - 🌍 Open to remote opportunities and international collaboration
 - 🚀 I'm currently working with **Java**, **Spring Boot**, **Spring Batch**, **JPA/Hibernate**, and **RESTful APIs**
 - 🛠️ Also familiar with Docker, Kubernetes and Linux
-- 🇵🇹 Creator of www.residencetrackerpt.com - currently helped more than 200 immigrants in Portugal
+- 🇵🇹 Creator of www.residencetrackerpt.com - currently helped more than 1000 immigrants in Portugal
 
 ---
 
